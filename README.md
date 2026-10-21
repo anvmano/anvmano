@@ -13,8 +13,8 @@ Experiência no desenvolvimento e manutenção de sistemas com C#/.NET, ASP.NET 
 ## Projetos em destaque
 
 - **[Estação Climática em C#/.NET](https://github.com/anvmano/estacao-climatica-csharp)** — API e dashboard com histórico de sensores, consultas de clima público, autenticação de acesso interno e testes xUnit/Playwright. Separação em Domain, Application, Infrastructure e Web.
-- **[Oracle Database](https://github.com/anvmano/Oracle-Database)** — guias, diagnóstico e scripts SQL/PLSQL organizados por tarefa, com separação entre consultas, manutenção e geração de DDL.
 - **[Dashboard climático web](https://github.com/anvmano/anvmano.github.io)** — gráficos, tabelas, relatórios e consultas públicas por CEP/cidade/localização. [Ver demonstração](https://anvmano.github.io/).
+- **[Oracle Database](https://github.com/anvmano/Oracle-Database)** — guias, diagnóstico e scripts SQL/PLSQL organizados por tarefa, com separação entre consultas, manutenção e geração de DDL.
 
 ## Catálogo completo
 
